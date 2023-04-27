@@ -377,6 +377,3 @@ def run():
 
     start_menu.add_menu(start_menu_items)
     curses.wrapper(start_menu.main)
-
-
-run()
